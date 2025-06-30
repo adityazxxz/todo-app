@@ -76,6 +76,3 @@ function getTodos() {
 }
 
 
-<footer>
-  Made with ❤️ by Aditya
-</footer>

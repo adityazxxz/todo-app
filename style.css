@@ -86,8 +86,8 @@ form{
 }
 .delete-button{
     padding: 3px;
-    background: none;
-    border: none;
+    background: purple;
+    border: 2px 2px;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -74,3 +74,8 @@ function getTodos() {
     const todos = localStorage.getItem("todos") || "[]";
     return JSON.parse(todos);
 }
+
+
+<footer>
+  Made with ❤️ by Aditya
+</footer>
